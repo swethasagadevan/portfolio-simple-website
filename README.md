@@ -1,27 +1,20 @@
-#Portfolio Website
+# Portfolio Website
 
-A simple personal portfolio website built using HTML and CSS.
-This project is designed to showcase skills, projects, and provide a brief introduction.
+A simple **personal portfolio website** built using **HTML and CSS**.  
+This project is designed to showcase skills, projects, and provide a brief introduction.  
 
-#Features
+## Features  
+- Two-page layout (**Home** & **Contact**)  
+- Responsive design for better viewing on different devices  
+- Minimal and clean user interface  
 
-Two-page layout (Home & Contact).
+## Tech Stack  
+- **HTML5**  
+- **CSS3**  
 
-Responsive design for better viewing on different devices.
-
-Minimal and clean user interface.
-
-Tech Stack
-
-HTML5
-
-CSS3
-
-How to View
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Open index.html in your browser.
+## How to View  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```  
+2. Open `index.html` in your browser.  
